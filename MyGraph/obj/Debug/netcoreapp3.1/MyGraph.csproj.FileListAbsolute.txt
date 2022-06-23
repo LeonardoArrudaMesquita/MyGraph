@@ -1,0 +1,13 @@
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/bin/Debug/netcoreapp3.1/MyGraph.deps.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/bin/Debug/netcoreapp3.1/MyGraph.runtimeconfig.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/bin/Debug/netcoreapp3.1/MyGraph.runtimeconfig.dev.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/bin/Debug/netcoreapp3.1/MyGraph.dll
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/bin/Debug/netcoreapp3.1/MyGraph.pdb
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.csproj.AssemblyReference.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.AssemblyInfoInputs.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.AssemblyInfo.cs
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.csproj.CoreCompileInputs.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.dll
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.pdb
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyGraph/MyGraph/obj/Debug/netcoreapp3.1/MyGraph.genruntimeconfig.cache

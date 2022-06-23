@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E87ADF4D-D5BE-479D-8DA4-8E65461D45A3}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyGraph PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGraph/GenericGraph.cs">
+    <Files>
+      <File FileName="MyGraph/Program.cs" Line="72" Column="13" />
+      <File FileName="MyGraph/BasicGraph.cs" />
+      <File FileName="MyGraph/GraphNode.cs" />
+      <File FileName="MyGraph/StandardGraph.cs" />
+      <File FileName="MyGraph/GenericGraph.cs" Line="247" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGraph" expanded="True">
+            <Node name="MyGraph" expanded="True">
+              <Node name="GenericGraph.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
